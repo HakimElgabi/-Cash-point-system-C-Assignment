@@ -1,0 +1,9 @@
+BANK
+003
+00-44
+10/12/2005
+200
+30/3/2016 20:45:19 TRANSFER_OUT_001_00-44 -100
+3/3/2015 15:45:47 withdrawal_from_ATM -10
+2/3/2014 15:45:47 withdrawal_from_ATM -90
+2/2/2014 15:45:47 withdrawal_from_ATM -200
